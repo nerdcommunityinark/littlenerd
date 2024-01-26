@@ -7,7 +7,7 @@
         "IconURL": "https://i.imgur.com/BkQvtYi.png",
         "DisableIconText": false,
         "IconPosition": 3,
-        "IconTextColor": 0,
+        "IconTextColor": 2,
         "OpenOnStart": false,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
